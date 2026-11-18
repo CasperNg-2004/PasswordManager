@@ -149,6 +149,4 @@ The repository currently contains template tests for basic arithmetic and the ap
 
 [CasperNg-2004](https://github.com/CasperNg-2004)
 
-## License
 
-The repository does not currently include a license file.
