@@ -1,4 +1,4 @@
-## Password Manager
+# Password Manager
 
 A native Android password manager built with Java and XML layouts for **Mobile Application Development Assignment 1 (Individual)**. The app stores account credentials locally, provides a four-digit PIN login, and lets users add, search, view, edit, and delete password entries.
 
